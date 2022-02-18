@@ -1,3 +1,1 @@
-1. We didn't upload an image to IPFS ourselves
-2. Why is IPFS decentralized?
-3. Anyone can mint an NFT here - not verifiably scarce or random
+Project allows users to mint NFTs of dogs. Utilizes Solidity for Contracts, and Python for deployment and running of the smart contracts.
